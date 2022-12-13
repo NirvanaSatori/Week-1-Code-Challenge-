@@ -11,6 +11,10 @@ The function takes in an input, and using a Switch case, it  outputs the results
 We write a program that takes in a tutorial array where it capitalizes the first letter of every word and returns it .
 The function takes in an array and uses the split attribute to turn each word into a string. 
 It in turn capitalizes the first letter of every word and returns it.
+## Challenge 3: Net Salary Calculator (Toy Problem)
+Write a program whose major task is to calculate an individual’s Net Salary by getting the inputs of basic salary and benefits.
+Calculate the payee (i.e. Tax), NHIFDeductions, NSSFDeductions, gross salary, and net salary. */
+
 ### Author;
 Morris Waithaka.
 ### License;
